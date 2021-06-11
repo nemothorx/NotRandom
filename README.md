@@ -1,5 +1,8 @@
 # Not Random, So Very Holistic
 
+This script creates a logo with those words. The layout is always the same,
+but the fonts are chosen randomly each time.
+
 I wrote this in 2017/2018. I'm not sure why. 
 
 Best guess is that it's related to the Dirk Gently's Holistic Detective Agency TV series, or perhaps some other Dirk Gently release.
